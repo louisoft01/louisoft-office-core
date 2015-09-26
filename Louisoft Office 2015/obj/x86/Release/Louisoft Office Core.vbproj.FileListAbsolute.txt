@@ -58,3 +58,24 @@ C:\Users\Louis Coke\Dropbox\Louisoft Office\Louisoft Office Core\Louisoft Office
 C:\Users\Louis Coke\Dropbox\Louisoft Office\Louisoft Office Core\Louisoft Office 2015\obj\x86\Release\Louisoft Office Core.application
 C:\Users\Louis Coke\Dropbox\Louisoft Office\Louisoft Office Core\Louisoft Office 2015\obj\x86\Release\Louisoft_Office_.Form2.resources
 C:\Users\Louis Coke\Dropbox\Louisoft Office\Louisoft Office Core\Louisoft Office 2015\obj\x86\Release\Louisoft Office Core.vbprojResolveAssemblyReference.cache
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\bin\Release\Louisoft Office Core.exe.config
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\obj\x86\Release\Louisoft Office Core.exe
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\obj\x86\Release\Louisoft Office Core.xml
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\obj\x86\Release\Louisoft Office Core.pdb
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\bin\Release\Louisoft Office Core.exe.manifest
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\bin\Release\Louisoft Office Core.application
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\bin\Release\Louisoft Office Core.exe
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\bin\Release\Louisoft Office Core.pdb
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\bin\Release\Louisoft Office Core.xml
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\bin\Release\RibbonRoundButton.dll
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\obj\x86\Release\Louisoft Office Core.vbprojResolveAssemblyReference.cache
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\obj\x86\Release\Louisoft_Office_.AboutBox1.resources
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\obj\x86\Release\Louisoft_Office_.activate_product.resources
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\obj\x86\Release\Louisoft_Office_.Form1.resources
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\obj\x86\Release\Louisoft_Office_.Form2.resources
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\obj\x86\Release\Louisoft_Office_.Help.resources
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\obj\x86\Release\Louisoft_Office_.Resources.resources
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\obj\x86\Release\Louisoft_Office_.SplashScreen1.resources
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\obj\x86\Release\Louisoft Office Core.vbproj.GenerateResource.Cache
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\obj\x86\Release\Louisoft Office Core.exe.manifest
+C:\Users\Louis Coke\Documents\Louisoft Office Core\louisoft-office-core\Louisoft Office 2015\obj\x86\Release\Louisoft Office Core.application

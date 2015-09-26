@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form1
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Form1
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
@@ -45,6 +45,9 @@ Partial Class Form1
         Me.HelpToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.RichTextBox1 = New System.Windows.Forms.RichTextBox()
         Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
+        Me.WhiteToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.FontSettingsToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.FontDialog1 = New System.Windows.Forms.FontDialog()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -77,19 +80,19 @@ Partial Class Form1
         'OpenToolStripMenuItem
         '
         Me.OpenToolStripMenuItem.Name = "OpenToolStripMenuItem"
-        Me.OpenToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.OpenToolStripMenuItem.Size = New System.Drawing.Size(103, 22)
         Me.OpenToolStripMenuItem.Text = "Open"
         '
         'SaveToolStripMenuItem
         '
         Me.SaveToolStripMenuItem.Name = "SaveToolStripMenuItem"
-        Me.SaveToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.SaveToolStripMenuItem.Size = New System.Drawing.Size(103, 22)
         Me.SaveToolStripMenuItem.Text = "Save"
         '
         'NewToolStripMenuItem
         '
         Me.NewToolStripMenuItem.Name = "NewToolStripMenuItem"
-        Me.NewToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.NewToolStripMenuItem.Size = New System.Drawing.Size(103, 22)
         Me.NewToolStripMenuItem.Text = "New"
         '
         'EditToolStripMenuItem
@@ -102,18 +105,18 @@ Partial Class Form1
         'CopyToolStripMenuItem
         '
         Me.CopyToolStripMenuItem.Name = "CopyToolStripMenuItem"
-        Me.CopyToolStripMenuItem.Size = New System.Drawing.Size(102, 22)
+        Me.CopyToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.CopyToolStripMenuItem.Text = "Copy"
         '
         'PasteToolStripMenuItem
         '
         Me.PasteToolStripMenuItem.Name = "PasteToolStripMenuItem"
-        Me.PasteToolStripMenuItem.Size = New System.Drawing.Size(102, 22)
+        Me.PasteToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.PasteToolStripMenuItem.Text = "Paste"
         '
         'FormatToolStripMenuItem
         '
-        Me.FormatToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.FontToolStripMenuItem})
+        Me.FormatToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.FontToolStripMenuItem, Me.FontSettingsToolStripMenuItem})
         Me.FormatToolStripMenuItem.Name = "FormatToolStripMenuItem"
         Me.FormatToolStripMenuItem.Size = New System.Drawing.Size(57, 20)
         Me.FormatToolStripMenuItem.Text = "Format"
@@ -122,32 +125,32 @@ Partial Class Form1
         '
         Me.FontToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ColorToolStripMenuItem})
         Me.FontToolStripMenuItem.Name = "FontToolStripMenuItem"
-        Me.FontToolStripMenuItem.Size = New System.Drawing.Size(138, 22)
+        Me.FontToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.FontToolStripMenuItem.Text = "Background"
         '
         'ColorToolStripMenuItem
         '
-        Me.ColorToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.BlueToolStripMenuItem, Me.BlackToolStripMenuItem, Me.GreenToolStripMenuItem})
+        Me.ColorToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.BlueToolStripMenuItem, Me.BlackToolStripMenuItem, Me.GreenToolStripMenuItem, Me.WhiteToolStripMenuItem})
         Me.ColorToolStripMenuItem.Name = "ColorToolStripMenuItem"
-        Me.ColorToolStripMenuItem.Size = New System.Drawing.Size(103, 22)
+        Me.ColorToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.ColorToolStripMenuItem.Text = "Color"
         '
         'BlueToolStripMenuItem
         '
         Me.BlueToolStripMenuItem.Name = "BlueToolStripMenuItem"
-        Me.BlueToolStripMenuItem.Size = New System.Drawing.Size(105, 22)
+        Me.BlueToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.BlueToolStripMenuItem.Text = "Blue"
         '
         'BlackToolStripMenuItem
         '
         Me.BlackToolStripMenuItem.Name = "BlackToolStripMenuItem"
-        Me.BlackToolStripMenuItem.Size = New System.Drawing.Size(105, 22)
+        Me.BlackToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.BlackToolStripMenuItem.Text = "Black"
         '
         'GreenToolStripMenuItem
         '
         Me.GreenToolStripMenuItem.Name = "GreenToolStripMenuItem"
-        Me.GreenToolStripMenuItem.Size = New System.Drawing.Size(105, 22)
+        Me.GreenToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.GreenToolStripMenuItem.Text = "Green"
         '
         'HelpToolStripMenuItem
@@ -160,13 +163,13 @@ Partial Class Form1
         'AboutToolStripMenuItem
         '
         Me.AboutToolStripMenuItem.Name = "AboutToolStripMenuItem"
-        Me.AboutToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.AboutToolStripMenuItem.Size = New System.Drawing.Size(107, 22)
         Me.AboutToolStripMenuItem.Text = "About"
         '
         'HelpToolStripMenuItem1
         '
         Me.HelpToolStripMenuItem1.Name = "HelpToolStripMenuItem1"
-        Me.HelpToolStripMenuItem1.Size = New System.Drawing.Size(152, 22)
+        Me.HelpToolStripMenuItem1.Size = New System.Drawing.Size(107, 22)
         Me.HelpToolStripMenuItem1.Text = "Help"
         '
         'RichTextBox1
@@ -181,6 +184,18 @@ Partial Class Form1
         'OpenFileDialog1
         '
         Me.OpenFileDialog1.FileName = "OpenFileDialog1"
+        '
+        'WhiteToolStripMenuItem
+        '
+        Me.WhiteToolStripMenuItem.Name = "WhiteToolStripMenuItem"
+        Me.WhiteToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.WhiteToolStripMenuItem.Text = "White"
+        '
+        'FontSettingsToolStripMenuItem
+        '
+        Me.FontSettingsToolStripMenuItem.Name = "FontSettingsToolStripMenuItem"
+        Me.FontSettingsToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.FontSettingsToolStripMenuItem.Text = "Font Settings"
         '
         'Form1
         '
@@ -221,5 +236,7 @@ Partial Class Form1
     Friend WithEvents BlueToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents BlackToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents GreenToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
-
+    Friend WithEvents WhiteToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents FontSettingsToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents FontDialog1 As FontDialog
 End Class

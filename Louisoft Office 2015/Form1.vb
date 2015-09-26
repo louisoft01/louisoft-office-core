@@ -83,4 +83,21 @@ Save:
     Private Sub GreenToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GreenToolStripMenuItem.Click
         RichTextBox1.BackColor = Color.Green
     End Sub
+
+    Private Sub WhiteToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles WhiteToolStripMenuItem.Click
+        RichTextBox1.BackColor = Color.White
+    End Sub
+
+    Private Sub FontSettingsToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles FontSettingsToolStripMenuItem.Click
+        FontDialog1.ShowDialog()
+        RichTextBox1.Font = FontDialog1.Font
+    End Sub
+
+    Private Sub ComicSansMSToolStripMenuItem_Click(sender As Object, e As EventArgs)
+
+    End Sub
+
+    Private Sub ComicSansMSToolStripMenuItem_Click_1(sender As Object, e As EventArgs)
+
+    End Sub
 End Class
